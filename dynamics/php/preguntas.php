@@ -2,6 +2,8 @@
     $no = rand(1,6); //número random para hacer que la materia sea aleatoria
     require "config.php";
     $conexion =  connect();
+    // $nombre = $_POST["jugador"];
+    
 
     if(!$conexion){
         echo "No se puedo conectar :(";
