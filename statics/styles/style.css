@@ -1,5 +1,13 @@
 /* =============================== CLASES =============================== */
 
+.jugador {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(197, 167, 208);
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
 /* ======== OPCIONES ======== */
 .btn-res
 {

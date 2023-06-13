@@ -2,7 +2,7 @@
     const DBHOST = "localhost";
     const DBUSER = "root";
     const DBPASS = "";
-    const DBNAME = "preguntados";
+    const DBNAME = "juego_preguntados";
 
     function connect ()
     {
